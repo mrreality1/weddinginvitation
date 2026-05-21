@@ -1,2 +1,11 @@
-# WeddingInvitation
-Create a wedding invitation with database integration that will be uploaded thru vercel
+
+  # Wedding invitation website
+
+  This is a code bundle for Wedding invitation website. The original project is available at https://www.figma.com/design/a5OGcOq2ElM2xQwe4NCHPc/Wedding-invitation-website.
+
+  ## Running the code
+
+  Run `npm i` to install the dependencies.
+
+  Run `npm run dev` to start the development server.
+  
